@@ -1,9 +1,20 @@
-# 🌐 ScreenTranslator
+<div align="center">
 
-**Instant On-Screen Text Translator**
-Developed by Pro_vveb
+# 🚀 ScreenTranslator
 
-[⬇️ Download](#-download) • [🌐 Website](https://provveb.uz) • Version 1.0.0
+### Instant On-Screen Text Translator
+Developed by **Pro_vveb**
+
+[![Download](https://img.shields.io/badge/⬇-Download-3178c6?style=for-the-badge)](https://github.com/provveb/Screen-Translator/releases/download/v1.0.0/ScreenTranslator_Setup.exe)
+[![ScreenTranslator](https://img.shields.io/badge/ScreenTranslator-000000?style=for-the-badge)](https://github.com/provveb/Screen-Translator)
+
+[![Website](https://img.shields.io/badge/🌐-Website-808080?style=for-the-badge)](https://provveb.uz)
+[![provveb.uz](https://img.shields.io/badge/PROVVEB.UZ-000000?style=for-the-badge)](https://provveb.uz)
+
+[![Version](https://img.shields.io/badge/Version-808080?style=for-the-badge)](https://github.com/provveb/Screen-Translator/releases)
+[![v1.0.0](https://img.shields.io/badge/v1.0.0-4CAF50?style=for-the-badge)](https://github.com/provveb/Screen-Translator/releases/tag/v1.0.0)
+
+</div>
 
 ---
 
@@ -25,7 +36,7 @@ ScreenTranslator is a convenient Windows application that lets you translate any
 
 Click the button below to download the latest version:
 
-**⬇️ [Download ScreenTranslator](https://github.com/provveb/ScreenTranslator/releases/download/v1.0.0/ScreenTranslator_Setup.exe)**
+**⬇️ [Download ScreenTranslator](https://github.com/provveb/Screen-Translator/releases/download/v1.0.0/ScreenTranslator_Setup.exe)**
 
 ## 🛠 Installation
 
